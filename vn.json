@@ -387,5 +387,37 @@
 		"audio": [
 			"https://fastcdn.hoyoverse.com/content-v2/nap/154605/93f8540c1931c81211cc5c4bb9d4d078_1537186668725657361.mp3"
 		]
+	}],
+	"1371": [{
+		"name": "张昱",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/155654/4a29e7d024cca033c89cbc7e2363c16e_9177370987970237081.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/155654/4feac7720f38ef41ee31754011c0f4dc_2033477072112833596.mp3"]},
+		{
+		"name": "Noto Mamiko",
+		"audio": [
+			""
+		]
+	}],
+	"1391": [{
+		"name": "谢莹",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/155654/4a29e7d024cca033c89cbc7e2363c16e_9177370987970237081.mp3",
+			"https://fastcdn.hoyoverse.com/content-v2/nap/155654/4feac7720f38ef41ee31754011c0f4dc_2033477072112833596.mp3"]},
+		{
+		"name": "Suwa Ayaka",
+		"audio": [
+			""
+		]
+	}],
+	"1421": [{
+		"name": "王西瓜",
+		"audio": [
+			"https://fastcdn.hoyoverse.com/content-v2/nap/155654/4a29e7d024cca033c89cbc7e2363c16e_9177370987970237081.mp3"]},
+		{
+		"name": "Takeuchi Ryota",
+		"audio": [
+			""
+		]
 	}]
 }
